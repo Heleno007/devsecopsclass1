@@ -1,4 +1,4 @@
-#!/home/helen/Development/devsecops/bin/ python
+#!/home/helen/Development/devsecops/bin/python
 #write some code that randomly picks a price from your price list (9.42, 5.67, 3.25, 13.40, 7.50) and prints True if the price is greater than 10 or false if its not.
 #Ans
 import random
